@@ -13,5 +13,6 @@ public class contact
 		String UN = xml.getParameter("username");
 		System.out.println(URL);
 		System.out.println(UN);
+		System.out.println("new=====");
 	}
 }
